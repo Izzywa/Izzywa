@@ -16,6 +16,7 @@ Just call me Najwa
 
 ### To do list
 - Get good in web programming
+- Now make it look good
 - Make mobile apps too
 - Collab with friends to make our dreams come true
 - Collab with strangers to add points to my social skills
