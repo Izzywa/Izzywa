@@ -13,6 +13,7 @@ Just call me Najwa
 - CSS
 - JavaScript
 - Django
+- React JS
 
 ### To do list
 - Get good in web programming
