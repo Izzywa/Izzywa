@@ -4,6 +4,7 @@ Just call me Najwa
 - 🌱 I’m currently learning web design. I aspire to one day make an application that can make someone's life easier.
 - 📖 I love to learn. I loath to stay still with what I know and I know the world will keep moving forward even if I no longer will.
 - 📫  [LinkedIn](www.linkedin.com/in/izzatul-najwa-binti-ismail-401994289)
+- 👩‍💻  [Portfolio](https://izzywa.github.io/portfolio/)
 
 ### Skills
 - C
