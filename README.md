@@ -1,7 +1,7 @@
 Just call me Najwa
 
 ### About Me
-- 🌱 I’m currently learning web design. I aspire to one day make an application that can make someone's life easier.
+- 🌱 My passion is in web development and design. I aspire to one day make an application that can make someone's life easier.
 - 📖 I love to learn. I loath to stay still with what I know and I know the world will keep moving forward even if I no longer will.
 - 📫  [LinkedIn](https://www.linkedin.com/in/izzatul-najwa-binti-ismail)
 - 👩‍💻  [Portfolio](https://izzywa.github.io/portfolio/)
