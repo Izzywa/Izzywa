@@ -15,6 +15,7 @@ Just call me Najwa
 - JavaScript
 - Django
 - React JS
+- SQLite
 
 ### To do list
 - Get good in web programming
