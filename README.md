@@ -7,7 +7,6 @@ Just call me Najwa
 - 👩‍💻  [Portfolio](https://izzywa.github.io/portfolio/)
 
 ### Skills
-- C
 - python
 - SQL
 - HTML
@@ -16,6 +15,7 @@ Just call me Najwa
 - Django
 - React JS
 - SQLite
+- MySQL
 
 ### To do list
 - Get good in web programming
