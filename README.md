@@ -1,7 +1,8 @@
 Just call me Najwa
 
 ### About Me
-- 🌱 My passion is in web development and design. I aspire to one day make an application that can make someone's life easier.
+- 🌱 My passion is in web development and design.
+- I love the planning, designing and management aspect in a software development process. 
 - 📖 I love to learn. I loath to stay still with what I know and I know the world will keep moving forward even if I no longer will.
 - 📫  [LinkedIn](https://www.linkedin.com/in/izzatul-najwa-binti-ismail)
 - 👩‍💻  [Portfolio](https://izzywa.github.io/portfolio/)
@@ -18,12 +19,8 @@ Just call me Najwa
 - MySQL
 
 ### To do list
-- Get good in web programming
-- Now make it look good
-- Make mobile apps too
-- Collab with friends to make our dreams come true
-- Collab with strangers to add points to my social skills
-- Be happy 
+- <del>Get good in web programming</del>
+
 
 <!---
 Izzywa/Izzywa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
