@@ -20,6 +20,9 @@ Just call me Najwa
 
 ### To do list
 - <del>Get good in web programming</del>
+- Get better in making web applications
+- Improve my project management skills
+- Make stuff smarter with CI/CD
 
 
 <!---
