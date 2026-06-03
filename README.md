@@ -1,9 +1,6 @@
 Just call me Najwa
 
 ### About Me
-🌱 My passion is in web development and design.
-
-📋I love the planning, designing and management aspect in a software development process.
 
 📖 I love to learn. I loath to stay still with what I know and I know the world will keep moving forward even if I no longer will.
 
@@ -12,19 +9,16 @@ Just call me Najwa
 👩‍💻  [Portfolio](https://izzywa.github.io/portfolio/)
 
 ### Skills
+- C#
 - python
 - SQL
 - HTML
 - CSS
 - JavaScript
-- Django
-- React JS
-- SQLite
-- MySQL
+- React
+- Java
 
 ### To do list
-- <del>Get good in web programming</del>
-- Get better in making web applications
 - Improve my project management skills
 - Make stuff smarter with CI/CD
 - Learn cloud infrastructure
