@@ -18,13 +18,6 @@ Just call me Najwa
 - React
 - Java
 
-### To do list
-- Improve my project management skills
-- Make stuff smarter with CI/CD
-- Learn cloud infrastructure
-- ???
-- DevOps 
-
 
 <!---
 Izzywa/Izzywa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
